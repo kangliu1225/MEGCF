@@ -1,0 +1,63 @@
+Data loader won't provide title feat.
+n_users=12539, n_items=8735
+n_entity=9603, n_title_entity=8476, n_review_entity=0, n_visual_entity=1127
+n_interactions=83648
+n_train=71109, n_test=12539, sparsity=0.00076
+already load adj_t matrix (30877, 30877) 0.10936880111694336
+shape of adjacency (30877, 30877)
+Epoch 0 [16.7s]: train==[23.19118=16.28911 + 6.59672 + 0.30534]
+Epoch 1 [6.2s]: train==[15.62363=11.32060 + 3.90851 + 0.39452]
+Epoch 2 [6.3s]: train==[10.99684=7.63382 + 2.99408 + 0.36894]
+Epoch 3 [6.2s]: train==[9.29423=6.25269 + 2.61255 + 0.42898]
+Epoch 4 [6.4s]: train==[8.54495=5.54740 + 2.54874 + 0.44881]
+Epoch 5 [6.6s]: train==[7.81478=5.01527 + 2.33781 + 0.46170]
+Epoch 6 [6.4s]: train==[7.27639=4.53527 + 2.27916 + 0.46196]
+Epoch 7 [7.0s]: train==[6.50757=3.93824 + 2.09980 + 0.46954]
+Epoch 8 [6.5s]: train==[6.05653=3.52128 + 2.05730 + 0.47794]
+Data loader won't provide title feat.
+Data loader won't provide title feat.
+Data loader won't provide title feat.
+Data loader won't provide title feat.
+Epoch 9 [6.4s + 20.3s]: train==[5.58130=3.15873 + 0.48456],hit@5=[0.39692],hit@10=[0.51463],hit@20=[0.64734],ndcg@5=[0.29215],ndcg@10=[0.33011],ndcg@20=[0.36360]
+Epoch 10 [6.6s]: train==[5.24487=2.86141 + 1.89152 + 0.49194]
+Epoch 11 [6.4s]: train==[5.00117=2.62202 + 1.88966 + 0.48949]
+Epoch 12 [6.3s]: train==[4.48128=2.32102 + 1.66101 + 0.49925]
+Epoch 13 [6.2s]: train==[4.18951=1.98356 + 1.69307 + 0.51288]
+Epoch 14 [6.3s]: train==[3.96729=1.77515 + 1.66195 + 0.53019]
+Epoch 15 [6.1s]: train==[3.66328=1.57911 + 1.54932 + 0.53485]
+Epoch 16 [6.1s]: train==[3.60712=1.54333 + 1.52539 + 0.53840]
+Epoch 17 [6.4s]: train==[3.34358=1.34647 + 1.44648 + 0.55063]
+Epoch 18 [6.8s]: train==[3.20134=1.21642 + 1.42675 + 0.55818]
+Data loader won't provide title feat.
+Data loader won't provide title feat.
+Data loader won't provide title feat.
+Data loader won't provide title feat.
+Epoch 19 [6.5s + 19.4s]: train==[2.97375=1.16990 + 0.56406],hit@5=[0.40514],hit@10=[0.51519],hit@20=[0.64160],ndcg@5=[0.30266],ndcg@10=[0.33822],ndcg@20=[0.37011]
+Epoch 20 [6.6s]: train==[2.84634=1.02903 + 1.24540 + 0.57192]
+Epoch 21 [6.7s]: train==[2.68719=0.92632 + 1.18323 + 0.57765]
+Epoch 22 [6.2s]: train==[2.64260=0.89452 + 1.16431 + 0.58378]
+Epoch 23 [6.6s]: train==[2.65559=0.84495 + 1.22669 + 0.58395]
+Epoch 24 [6.1s]: train==[2.46902=0.75431 + 1.12475 + 0.58996]
+Epoch 25 [6.1s]: train==[2.42612=0.72448 + 1.10541 + 0.59622]
+Epoch 26 [6.1s]: train==[2.32403=0.65686 + 1.06535 + 0.60182]
+Epoch 27 [6.1s]: train==[2.31166=0.63064 + 1.07659 + 0.60443]
+Epoch 28 [6.1s]: train==[2.22794=0.63770 + 0.98576 + 0.60449]
+Data loader won't provide title feat.
+Data loader won't provide title feat.
+Data loader won't provide title feat.
+Data loader won't provide title feat.
+Epoch 29 [6.1s + 19.0s]: train==[2.22587=0.59228 + 0.61072],hit@5=[0.39748],hit@10=[0.50403],hit@20=[0.63107],ndcg@5=[0.29938],ndcg@10=[0.33365],ndcg@20=[0.36568]
+Epoch 30 [6.2s]: train==[2.12957=0.54354 + 0.96700 + 0.61902]
+Epoch 31 [6.0s]: train==[2.04538=0.52103 + 0.90196 + 0.62239]
+Epoch 32 [6.1s]: train==[2.04716=0.47428 + 0.94703 + 0.62584]
+Epoch 33 [6.0s]: train==[2.02700=0.46962 + 0.92922 + 0.62816]
+Epoch 34 [6.4s]: train==[1.98705=0.45257 + 0.90387 + 0.63061]
+Epoch 35 [6.8s]: train==[1.95048=0.40160 + 0.91815 + 0.63072]
+Epoch 36 [6.5s]: train==[1.89379=0.39781 + 0.86181 + 0.63418]
+Epoch 37 [6.2s]: train==[1.87226=0.41865 + 0.81769 + 0.63592]
+Epoch 38 [6.3s]: train==[1.81040=0.36848 + 0.80014 + 0.64177]
+Data loader won't provide title feat.
+Data loader won't provide title feat.
+Data loader won't provide title feat.
+Data loader won't provide title feat.
+Epoch 39 [6.5s + 19.4s]: train==[1.87613=0.36884 + 0.63870],hit@5=[0.38424],hit@10=[0.48584],hit@20=[0.61377],ndcg@5=[0.29089],ndcg@10=[0.32359],ndcg@20=[0.35576]
