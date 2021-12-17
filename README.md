@@ -1,7 +1,7 @@
 # MEGCF
 ## Multimooddal Semantic Entity Based Graph Convolution Collaborative Filtering
 
-![framework of MEGCF](model.pdf)
+![framework of MEGCF](model.png)
 
 
 In most E-commerce platforms, whether the displayed items trigger the user's interest depends largely on their most eye-catching multimodal content (e.g., images, videos, titles, reviews, etc.). increasing efforts focus on modeling multimodal user preference, and the pressing paradigm is to incorporate complete multimodal deep features of the items into the recommendation module. However, we argue that existing work ignores the mismatch problem between multimodal feature extraction (MFE) and user interest modeling (UIM), that is, MFE and UIM have different emphases. Specifically, MFE is migrated from and adapted to upstream tasks such as image classification and is essentially a content-oriented and non-personalized process, whereas UIM, with its greater focus on understanding user interaction, is essentially a user-oriented and personalized process.
