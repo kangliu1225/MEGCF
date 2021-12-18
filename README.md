@@ -11,9 +11,9 @@ We provide tensorflow implementation for MEGCF. Additionally, **we rerun the MEG
 
 ## specific results:
 
- - **amazon-beauty:** Epoch 859 [10.2s + 38.9s]: train==[10.23887=1.69991 + 6.48511],hit@5=[0.54295],hit@10=[0.64368],hit@20=[0.74602],ndcg@5=[0.42427],ndcg@10=[0.45701],ndcg@20=[0.48285]
+ - **amazon-beauty:** Epoch 859 [10.2s + 38.9s]: hit@5=[0.54295],hit@10=[0.64368],hit@20=[0.74602],ndcg@5=[0.42427],ndcg@10=[0.45701],ndcg@20=[0.48285]
  - **Art:** 
- - **Taobao:** Epoch 19 [6.5s + 19.4s]: train==[2.97375=1.16990 + 0.56406],hit@5=[0.40514],hit@10=[0.51519],hit@20=[0.64160],ndcg@5=[0.30266],ndcg@10=[0.33822],ndcg@20=[0.37011]
+ - **Taobao:** Epoch 19 [6.5s + 19.4s]: hit@5=[0.40514],hit@10=[0.51519],hit@20=[0.64160],ndcg@5=[0.30266],ndcg@10=[0.33822],ndcg@20=[0.37011]
 
 ## prerequisites
 
