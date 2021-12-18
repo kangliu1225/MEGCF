@@ -7,11 +7,9 @@ In most E-commerce platforms, whether the displayed items trigger the user's int
 
 In this work, to address the mismatch between MFE and UIM, we focus on how to translate content-oriented MFE into user-oriented. Considering that user interactions are often closely related to semantic-rich entities in the multimodal content of items, we propose to extract such entities in MFE and model the semantic correlation between them and user interactions. To implement this and to obtain a more informative embeddings, we construct a symmetric Graph Convolution Network (GCN) module to model the semantic correlation and extend it to a higher order. Additionally, because the textual item reviews hold important user-oriented sentiment information, we utilize advanced sentiment analysis technique to mine the sentiment features and design a sentiment weighting strategy to enhance graph convolution operations, which further facilitate the translation of MFE into user-oriented one. Overall, we propose a novel model, Multimodal semantic Entity based Graph convolution Collaborative Filtering, short for MEGCF, to achieve matching and complementarity between the MFE and the UIM. Extensive experiments and in-depth analysis demonstrate the state-of-the-art performance of MEGCF and the superiority of each component in MEGCF for modeling multimodal user preferences.
 
-We provide tensorflow implementation for MEGCF.
+We provide tensorflow implementation for MEGCF. Additionally, **we rerun the MEGCF code on the three datasets and record the results in Model/Log/result-Art(or beauty, Taobao).txt.**
 
-**We reran the MEGCF code on the three datasets and recorded the results in Model/Log/result-Art(or beauty, Taobao).txt.**
-
-The following are the specific results:
+## specific results:
 
  - **amazon-beauty:** Epoch 859 [10.2s + 38.9s]: train==[10.23887=1.69991 + 6.48511],hit@5=[0.54295],hit@10=[0.64368],hit@20=[0.74602],ndcg@5=[0.42427],ndcg@10=[0.45701],ndcg@20=[0.48285]
  - **Art:** 
