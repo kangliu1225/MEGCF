@@ -1,5 +1,12 @@
-# MEGCF
-## MEGCF: Multimodal Entity Graph Collaborative Filtering for Personalized Recommendation
+
+<p align="left">
+    <img src='https://img.shields.io/badge/Paper-MEGCF: Multimodal Entity Graph Collaborative Filtering for Personalized Recommendation-blue.svg' alt="Build Status">
+</p>
+<p align="left">
+    <img src='https://img.shields.io/badge/key word-Recommender Systems-green.svg' alt="Build Status">
+    <img src='https://img.shields.io/badge/key word-Graph Neural Networks-green.svg' alt="Build Status">
+    <img src='https://img.shields.io/badge/key word-Multimodal user preferences-green.svg' alt="Build Status">
+</p>
 
 ![framework of MEGCF](model.jpg)
 
