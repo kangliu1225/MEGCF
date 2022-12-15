@@ -1,4 +1,6 @@
 
+Paper link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9730040
+
 <p align="left">
     <img src='https://img.shields.io/badge/Paper-MEGCF: Multimodal Entity Graph Collaborative Filtering for Personalized Recommendation-blue.svg' alt="Build Status">
 </p>
@@ -38,4 +40,15 @@ If our paper and codes are useful to you, please cite:
 	year = {2022},	
 	journal={TOIS},	
 	pages={1--26}	
+}
+
+@ARTICLE{jmpgcf,  
+author={Liu, Kang and Xue, Feng and He, Xiangnan and Guo, Dan and Hong, Richang},  
+journal={IEEE Transactions on Computational Social Systems},   
+title={Joint Multi-Grained Popularity-Aware Graph Convolution Collaborative Filtering for Recommendation},   
+year={2022},  
+volume={},  
+number={},  
+pages={1-12},  
+doi={10.1109/TCSS.2022.3151822}
 }
