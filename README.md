@@ -48,6 +48,6 @@ author={Liu, Kang and Xue, Feng and He, Xiangnan and Guo, Dan and Hong, Richang}
 journal={IEEE Transactions on Computational Social Systems},   
 title={Joint Multi-Grained Popularity-Aware Graph Convolution Collaborative Filtering for Recommendation},   
 year={2022},  
-pages={1-12},  
+pages={1--12},  
 doi={10.1109/TCSS.2022.3151822}
 }
