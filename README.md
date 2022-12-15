@@ -34,12 +34,12 @@ We provide tensorflow implementation for MEGCF. Additionally, **we rerun the MEG
 ## Citation :satisfied:
 If our paper and codes are useful to you, please cite:
 
-@article{MEGCF，	
-	author = {Liu, Kang and Xue, Feng and Guo, Dan and Wu, Le and Li, Shujie and Hong, Richang},	
-	title = {{MEGCF}: Multimodal Entity Graph Collaborative Filtering for Personalized Recommendation},	
-	year = {2022},	
-	journal={TOIS},	
-	pages={1--26}	
+@ARTICLE{MEGCF，	
+author = {Liu, Kang and Xue, Feng and Guo, Dan and Wu, Le and Li, Shujie and Hong, Richang},	
+title = {{MEGCF}: Multimodal Entity Graph Collaborative Filtering for Personalized Recommendation},	
+year = {2022},	
+journal={TOIS},	
+pages={1--26}	
 }
 
 @ARTICLE{jmpgcf,  
@@ -47,8 +47,6 @@ author={Liu, Kang and Xue, Feng and He, Xiangnan and Guo, Dan and Hong, Richang}
 journal={IEEE Transactions on Computational Social Systems},   
 title={Joint Multi-Grained Popularity-Aware Graph Convolution Collaborative Filtering for Recommendation},   
 year={2022},  
-volume={},  
-number={},  
 pages={1-12},  
 doi={10.1109/TCSS.2022.3151822}
 }
