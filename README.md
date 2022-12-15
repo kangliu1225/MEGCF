@@ -1,5 +1,5 @@
 
-Paper link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9730040
+Paper link: https://dl.acm.org/doi/abs/10.1145/3544106
 
 <p align="left">
     <img src='https://img.shields.io/badge/Paper-MEGCF: Multimodal Entity Graph Collaborative Filtering for Personalized Recommendation-blue.svg' alt="Build Status">
@@ -34,12 +34,13 @@ We provide tensorflow implementation for MEGCF. Additionally, **we rerun the MEG
 ## Citation :satisfied:
 If our paper and codes are useful to you, please cite:
 
-@ARTICLE{MEGCF，	
-author = {Liu, Kang and Xue, Feng and Guo, Dan and Wu, Le and Li, Shujie and Hong, Richang},	
-title = {{MEGCF}: Multimodal Entity Graph Collaborative Filtering for Personalized Recommendation},	
-year = {2022},	
-journal={TOIS},	
-pages={1--26}	
+
+@ARTICLE{MEGCF,  
+author={Liu, Kang and Xue, Feng and Guo, Dan and Wu, Le and Li, Shujie and Hong, Richang},  
+journal={ACM Transactions on Information Systems},   
+title={{MEGCF}: Multimodal Entity Graph Collaborative Filtering for Personalized Recommendation},   
+year={2022},  
+pages={1--26}
 }
 
 @ARTICLE{jmpgcf,  
